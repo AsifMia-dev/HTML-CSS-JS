@@ -6,9 +6,9 @@ body{
     background-color: rgb(247, 242, 247)
 }
 #main-header{
-    background-color: rgb(140,0,255);
+    background-color: rgb(69, 69, 193);
     color: white;
-    padding: 2rem 5%;
+    padding: 2rem 5%; 
     text-align: center;
 }
 .btn{
@@ -34,6 +34,6 @@ body{
     border-color: rgb(79, 10, 190);;  
 }
 .btn-alt:hover{
-   background-color: rgb(245, 232, 255);     
+   background-color: rgb(154, 154, 206);     
    border-color:transparent;  
 }
