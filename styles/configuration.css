@@ -4,20 +4,28 @@
 #config-overlays h2{
     margin: 0.5rem 0;
 }
-#from-contorl{
+.from-contorl{
     margin: 0.5rem 0;
 }
-#from-contorl label{
+.from-contorl label{
     display: block;
     margin-bottom: 0.5rem;
     font-weight: bold;
 }
-#from-contorl input{
+.from-contorl input{
     font: inherit;
     border: 1px solid rgb(204, 204, 204);
     border-radius: 5px;
     padding: 0.5rem;
     width: 15rem;
+}
+.error label{
+    color: rgb(136, 2, 2);
+}
+.error input{
+    border-color: rgb(136, 2, 2);
+    color: rgb(136, 2, 2);
+    background-color: rgb(253, 219, 219);
 }
 #game-configuration{
     width: 90%;
